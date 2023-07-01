@@ -1,0 +1,3 @@
+Wygral: X
+Ilosc wygranych X: 1
+Ilosc wygranych O: 0
